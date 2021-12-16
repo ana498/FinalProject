@@ -1,0 +1,15 @@
+body {
+  background-color: pink;
+}
+div#main{
+  max-width: 700px;
+  margin: 0 auto;
+}
+p.normal {
+  font-style: normal;
+}
+body{
+  font-family: helvetica;
+  max-width: 700px;
+  margin: 0 auto;
+}
